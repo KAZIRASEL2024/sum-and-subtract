@@ -1,0 +1,7 @@
+print("Hello World ")
+X=input(int);
+Y=36;
+print("result",(X+Y))
+print("result",(X/Y))
+x=float(input ("Enter the first number "))
+print("Result=",X*x)
